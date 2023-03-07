@@ -65,7 +65,7 @@ a{
 }
 
 .main-cont{
-    background-image: url("Web_development_-_Main.png");
+    background-image: url("src/Web_development_-_Main.png");
     background-size: cover;
     width: 100%;
     height: 100%;
